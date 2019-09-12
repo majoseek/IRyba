@@ -1,0 +1,17 @@
+.ml3 {
+	position: fixed;
+	top:40%;
+	left:32%;
+	color:white;
+  font-weight: bold;
+  font-size: 70px;
+  font-family: 'Oswald', sans-serif;
+  white-space: nowrap;
+}
+@media only screen and (max-width: 760px){
+	.ml3
+	{
+		position: absolute;
+		font-size: 24px;
+	}
+}

@@ -1,0 +1,55 @@
+html,body{
+	margin: 0;
+  padding: 0;
+  width: 100%;
+  height: 100%;
+  background-attachment: fixed;
+  background-image: url("../images/background.png");
+
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  z-index: -1;
+}
+body{
+	overflow-x:hidden;
+	overflow-y:scroll;
+  -webkit-perspective: 1400px;
+     -moz-perspective: 1400px;
+      -ms-perspective: 1400px;
+          perspective: 1400px;
+}
+::-webkit-scrollbar {
+  width: 25px;
+}
+
+::-webkit-scrollbar-track {
+	background:white;
+  box-shadow: inset 0 0 5px black; 
+  border-radius: 20px;
+}
+
+::-webkit-scrollbar-thumb {
+  background: #E7CA55; 
+  border-radius: 20px;
+}
+::selection {
+    background-color: rgba(233, 177, 32, 0.9);
+    color: white;
+}
+#tlo{
+  position: fixed;
+  top:0;
+  left:0;
+  height: 100%;
+  width: 100%;
+  background-attachment: fixed;
+  background-image: url("../images/background.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  z-index: -1;
+}
+h1{
+  color:white;
+}
