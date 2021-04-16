@@ -1,3 +1,10 @@
-# IRyba
-<p>Program uses HTML, CSS, JavaScript and mainly PHP technology.</p>
-<p>It allows people to make their unique account and give them 500 MB of free space on online disk</p>
+# Cloud Computing
+## Used technologies
+* HTML
+* CSS
+* JavaScrip
+* PHP technology.</p>
+## Description
+App allows people to make their unique account and give them free online disk.\
+Limit for 1 person is set to <b>500MB</b>\
+Program tested locally
