@@ -2,7 +2,7 @@
 ## Used technologies
 * HTML
 * CSS
-* JavaScrip
+* JavaScript
 * PHP technology.</p>
 ## Description
 App allows people to make their unique account and give them free online disk.\
